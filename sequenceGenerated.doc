@@ -1,0 +1,45 @@
+GCAAATAT
+AA---------
+                    
+-----------SourceSeq
+  Score=-2.18
+----------------------------------GCA-----------AAT-----------------AT
+AA----------------------------------------------------
+                                  |||           |||                 ||.||                                                    
+CCTAGAAGGTTAAATCTACAGAAAATGAAAGTAAGCAATTACTGACACAATGGGTATTAT[A/G]CACATCAAAATCCTAATGCTATCACCCAAATGCTATGACCTCACACAAACTACATAAGCT
+  Score=3.9
+------------------------------GCA----------------------AATAT-------------------------------------------------------
+AA-------
+                              |||                      |||||                                                       .||       
+CTTCTCTCAAACTATACAGGCTTTCCAAATGCAAGAAAAGGAAAGAGAGAGACTGAATAT[T/C]GGGATGGTAGTGACCTGGTATACCATCCTAGCAGGGACTTGTGGATGTGCCAAGATCCAG
+  Score=3.9
+---G-------------CAAA-------------TAT
+AA--------------------------------------------------------------------------------------
+   |             ||||             ||| ||                                                                                      
+TTAGTTGAGACCAATTACAAATTTCTTCACCTCGTAT-AAGAAAAAAGGAAATAATACATT[A/G]CAGGTTGGTAAATGTACCAAGGCGCATATAATGATTCACATTTTCCTGACTATCAGGGTG
+  Score=3.89
+------GC---------------------------AAAT--------------AT
+A-------------------------------------------------------------------A
+      ||                           ||||              ||.|                                                                   |
+TCAAGGGCTATGAGTTCCCATGATGAGATGAGTGGAAATGCACTTTGACAGAGATCAGGG[T/G]TCCAGATTAGCTAAATGATAGAGGGAAATGGGTAAGCATTAGGTGGTTGATGTACAGAGA
+  Score=3.9
+---------------------------------------------GCA--------------------------------------------------------------------AATAT
+A-A-
+                                             |||                                                                    ||||| | | 
+AATAAAAATGAATATACAAGAAATGYTAAGAATGTTGGAAAATCAGCATTTTGTATCTTA[T/C]TCATCGAGGCAAAAAATGAAAACATGCCTGATTTCTAGAAGATGCTTTGGTAATAT-ATAT
+  Score=3.89
+--------------------------------GC-------AAAT---------------------------------AT
+A------------------------------------------A
+                                ||       ||||                                 ||.|                                          |
+ATTGTATGGAGTTTTATGAAAAAGAAATAAGTGCATGTTAAAAATGTTCAAAAGTCATAC[A/G]TGAAAAGTTAAAAATAAGTCAACTTCCCCTTCTCACATCACCTCCCAGTTCCCCAGAGGA
+  Score=3.9
+GC-----------AAA-----------------------------------------------------------------------------------------------------TAT
+AA---
+||           |||                                                                                                     ||| ||   
+GCCATCTTTCTTTAAACCATCATTATCTGCTTCTCTTTCATTCTAACTCCTGCCTCTGTA[T/C]CCACCTACCCTCCAAAACCTGGCTGATGCTTATACCTGTGATAATGCTGAAGTAT-AATTT
+  Score=4.88
+-------------------------------------------------------------------------------------------GCAAA----------------------TA-T
+AA-
+                                                                                           |||||                      || | || 
+TAACCTGGGACCCCTTGGGTCAGTATGTTGCTACCCTGAGCTGTGACAGGTGCGTCTGTC[A/G]TCTTCTCTGTTGGCTTGAAATTTTCTGCAAAGCTGTTTTCATCACCATTTAACTART-AAT
+  Score=3.89
